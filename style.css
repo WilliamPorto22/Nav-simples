@@ -28,9 +28,9 @@ a {
 }
 
 img {
-    height: 9vh;
-    width: 5vw;
-    border-radius: 2vh;
+    height: 70px;
+    width: 70px;
+    border-radius: 8px;
 }
 
 ul, li {
